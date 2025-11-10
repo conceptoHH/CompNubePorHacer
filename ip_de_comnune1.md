@@ -7,7 +7,7 @@ ip = 34.83.96.177
 
 -   Creacion
 -   Acceso por Openssh en terminal externa
--   Instalacion de entorno de esccritorio y visualizacion por protocolo vnc en [chrome remote desktop](https://chrome.remote.dektop)
+-   Instalacion de entorno de esccritorio y visualizacion por protocolo vnc en [chrome remote desktop](https://remotedesktop.google.com/access)
 -   [Instalacion de ERPnext](https://github.com/frappe/erpnext) mediante docker 
     -   prerequisitos: 
         -   Docker y docker-compose
