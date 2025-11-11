@@ -12,4 +12,4 @@ ip = 34.83.96.177
     -   prerequisitos: 
         -   Docker y docker-compose
         - git
-    - Note: probablemente se necesite hacer portforwarding al puerto 8080 para poder visualizarlo con ip externa falta confirmar.
+    - Note: probablemente se necesite hacer portforwarding al puerto 8080 para poder visualizarlo con ip externa falta confirmar. -> si era esto 
