@@ -13,3 +13,6 @@ ip = 34.83.96.177
         -   Docker y docker-compose
         - git
     - Note: probablemente se necesite hacer portforwarding al puerto 8080 para poder visualizarlo con ip externa falta confirmar. -> si era esto 
+-    Adquisicion de dominio en cloud domains y configuracion de zona DNS en cloud DNS
+        - Creacion de registro tipo A para la ip externa de la maquina (ip = 34.83.96.177)
+- creacion de nuevo usuario 'Cliente' con sus dos claves privada y publica para acceso por SSH
